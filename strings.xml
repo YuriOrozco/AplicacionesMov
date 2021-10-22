@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CrazyLayouts</string>
+    <string-array name="lista_estado_civil">
+    <item>Soltero</item>
+        <item>Casado</item>
+        <item>Divorciado</item>
+        <item>Prefiero no decirlo</item>
+    </string-array>
+    <string-array name="lista_cargo">
+        <item>Ventas</item>
+        <item>Informatica</item>
+        <item>Jardineria</item>
+        </string-array>
+</resources>
